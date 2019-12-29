@@ -1,0 +1,42 @@
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
+#bottomReference {
+  position: fixed;
+  width: 100%;
+  height: 80px;
+  background-color: white;
+  bottom: 0;
+  border-top: solid;
+}
+
+#mainText {
+  padding-left: 20px;
+  padding-right: 40%;
+}
+
+.text {
+  font-family: Be Vietnam;
+  font-size: 36px;
+}
+
+#left_col {
+  padding-top: 5px;
+  padding-left: 24px;
+  line-height: 10px;
+  float:left; 
+  text-align: left;
+  font-size: 16px;
+  font-family: Be Vietnam;
+}
+#right_col {
+  padding-top: 5px;
+  line-height: 10px;
+  padding-left: 20px;
+  float:left; 
+  text-align: left;
+  font-size: 16px;
+  font-family: Be Vietnam;
+}
